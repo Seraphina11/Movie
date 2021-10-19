@@ -11,11 +11,6 @@ boto
 bottleneck
 brotlipy
 comtypes
-conda-build
-conda-package-handling
-conda-repo-cli
-conda-token
-conda-verify
 contextlib2
 cython
 cytoolz
@@ -29,8 +24,6 @@ html5lib
 imagecodecs
 importlib-metadata
 jdcal
-jupyter
-jupyterlab
 lxml
 mkl-fft
 mkl-random
@@ -39,8 +32,6 @@ mock
 more-itertools
 multipledispatch
 mypy-extensions
-mysql-connector-python
-navigator-updater
 nltk
 nose
 numba
@@ -68,7 +59,6 @@ singledispatch
 sip
 sortedcollections
 sphinxcontrib-websupport
-spyder
 sqlalchemy
 statsmodels
 streamlit
